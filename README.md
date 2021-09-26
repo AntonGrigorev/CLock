@@ -1,2 +1,2 @@
 # Clock
-https://github.com/AntonGrigorev/Clock/blob/main/clock.html
+https://AntonGrigorev.github.io/Clock/clock.html
